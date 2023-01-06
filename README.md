@@ -1,1 +1,1 @@
-# Diabetes_Detection
+# Stock_Market Prediction
